@@ -1,4 +1,4 @@
-# bificoo.bitbucket.org
+# vue-simple-template
 
 > A Vue.js project
 
